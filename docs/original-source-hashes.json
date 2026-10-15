@@ -1,0 +1,12 @@
+{
+  "main.py": "d979bcd8fc0af694404c3f5d297602d9585eaa4eac6a55fd992978a832fe9db3",
+  "config.py": "c79773ceb9c48cc461187a1b434c9dfb5e20ee538fe9691ebf425f2dc1dd486e",
+  "mfds_client.py": "9ca0bf9ec45ee0cfbdd272e1bdc97fe7dc5f9d84a235b623828d9c62809ca21b",
+  "studio_client.py": "a32ef1a5a728a892b28368cb1ef4be0b1b6987571ca74aac1aab118e58ee6970",
+  "calculator.py": "21eb7a68205a6c7bd18ec4d1df55c2a91baf48b9a816cc9dd35eddf1419274af",
+  "diagnose_mfds.py": "38ac66431f53a9d068e2aaf8727c3dfbd47fc0760f625b5ac4bf085f11a19dc6",
+  "verified_rules.json": "37517e5f3dc66819f61f5a7bb8ace1921282415f10551d2defa5c3eb0985b570",
+  ".env.example": "2677e40a0fda321f4f03daee840573c3a9daaea4291569b8257ee4c0bf6482cf",
+  ".gitignore": "82e46c46c220e8c3274fcc5a61a4b6b6046ac230e41b9c2b9e9932152dbb8be0",
+  "learningflow.code-workspace": "d8bc68d64f9b599f7d593d7ed9507861ad408f784a7e01e2fe8a9b701e508061"
+}
